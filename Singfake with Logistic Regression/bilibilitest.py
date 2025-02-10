@@ -8,8 +8,7 @@ SESSDATA = ""
 BILI_JCT = ""
 BUVID3 = ""
 
-#BV1vP411m73H
-#https://www.bilibili.com/video/BV1vP411m73H/?spm_id_from=333.788
+
 
 def get_bvid(url):
     
@@ -67,7 +66,7 @@ async def main():
  df = pd.read_csv('newfile_updated_p3.csv')
  cred = Credential(sessdata=SESSDATA, bili_jct=BILI_JCT, buvid3=BUVID3)
  
- count = 0
+
 
  
  for i in range(0, len(df)):
