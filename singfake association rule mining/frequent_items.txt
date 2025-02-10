@@ -1,0 +1,7 @@
+ support                                          itemsets
+0.119066 (High Views, Medium Likes, Real, Medium Comments)
+0.110506                (Medium Views, Medium Likes, Real)
+0.133852     (Medium Views, Medium Likes, Medium Comments)
+0.275486        (Low Likes, Low Comments, Low Views, Fake)
+0.121401     (Medium Views, Low Likes, Low Comments, Fake)
+0.140856     (Medium Views, Low Comments, Real, Low Likes)
