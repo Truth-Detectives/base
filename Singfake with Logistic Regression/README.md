@@ -130,7 +130,7 @@ feat_col = ['views','likes','comments']
 X = pdata[feat_col] 
 y = pdata.bonafide_or_spoof
 ```
-*The data was then separated into trainins and testing sets at a test size of 0.25 and a random state of 42*
+*The data was then separated into training and testing sets at a test size of 0.25 and a random state of 42*
 ```python
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=42)
 ```
