@@ -69,7 +69,7 @@ pip install matplotlib
 ```
 
 ## Using the API
-*The bilibili API was used to get video data such as amount of views, likes and comments from bilibili links. In order to fetch such data a credential class must be initalized. This class uses broswer cookie data for GET, POST operation as well as verification.*
+*The bilibili API was used to get video data such as amount of views, likes and comments from bilibili links. In order to fetch such data a credential class must be initalized. This class uses browser cookie data for GET, POST operation as well as verification.*
 ```python
 SESSDATA = ""
 BILI_JCT = ""
