@@ -1,0 +1,3 @@
+This EDA code is mainly used to even out the data from the singfake dataset. The removal of NaN and any redundancies, as well as missing values were already removed prior to the use of this implementation. This code is used to balance out the dataset using the smote algorithm and then visualize the spread of data present in the real and fake audio datasets.
+
+To run the code just setup the python environment and run each cell. The first cell imports every relevant library and for a quick visualization, it shows the number of real and fake datasets before and after the balance. Then it will show a histogram and a split plot graph
